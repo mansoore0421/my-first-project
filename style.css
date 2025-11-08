@@ -430,7 +430,7 @@ h1{
 .our-service{
     width: 100%;
     height: 804px;
-    background: url("e:/one page dream it/images/service.jpg");
+    background: url("images/service.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -748,6 +748,7 @@ h1{
     color:#fc9615;
     transition:  0.7s;
 }
+
 
 
 
