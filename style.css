@@ -153,7 +153,7 @@ ul li a{
 }
 .slider{
     height: 750px;
-    background-image: url('E:/one page dream it/images/slider1.jpg');
+    background-image: url('images/slider1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center  center;
@@ -299,7 +299,7 @@ h1{
     margin-left: 200px;
 }
 .feature-box1:hover{
-    background: url("e:/one page dream it/images/counter-bg1.jpg");
+    background: url("images/counter-bg1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -748,6 +748,7 @@ h1{
     color:#fc9615;
     transition:  0.7s;
 }
+
 
 
 
